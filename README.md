@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Jude here! I like to code (that's why I'm here).
+Have a nice day!
